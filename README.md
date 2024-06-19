@@ -1,4 +1,4 @@
-# Fashion_Store_Data_Analysis_Using_Excel
+# Fashion_Store_Data_Analysis
 **Objective** :<br>
 - Fashion Store wants to create an annual sales report for 2023. So that, this store can understand their customers and grow more sales in 2024. Implemented an advanced Fashion Store Dashboard using EXCEL.<br>
 
